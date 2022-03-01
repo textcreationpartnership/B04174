@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse for all true Christians, very usefull and necessary for all people of what degree soever to look upon in these troublesome times of sorrow. The tune is, Aim not to high.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658-1664?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04174</idno>
+            <idno type="STC">Wing L3016A</idno>
+            <idno type="STC">ESTC R180139</idno>
+            <idno type="EEBO-CITATION">47012514</idno>
+            <idno type="OCLC">ocm 47012514</idno>
+            <idno type="VID">174481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174481)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2690:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse for all true Christians, very usefull and necessary for all people of what degree soever to look upon in these troublesome times of sorrow. The tune is, Aim not to high.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, W. Gilbertson.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1658 and 1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 3 illustrations.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174481:1"/>
+            <!-- PDF PAGE 16 -->
+            <head>A Looking-Glaſſe for all true Chriſtians, Very uſefull and neceſſary for all people of what degree ſoever to look upon in theſe troubleſome times of ſorrow.</head>
+            <opener>The tune is, <hi>Aim not to high.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>O</hi> Heark, O heark, methinks I hear a voyce,</l>
+               <l>Which ſaid the Lord made man for his own choiſe</l>
+               <l>And yet he will not reconciled be,</l>
+               <l>To leave his ſins and to live righteouſly,</l>
+            </lg>
+            <lg>
+               <l>Awake awake thou mortall man from ſléep,</l>
+               <l>Repent thy ſin cry to the Lord and wéep,</l>
+               <l>For it is only he that muſt thée ſave,</l>
+               <l>Do thou repent and mercy thou ſhalt have.</l>
+            </lg>
+            <lg>
+               <l>Remember man that thou art made of clay,</l>
+               <l>And in this land thou art not long to ſtay,</l>
+               <l>Then lead thy life while here thou doſt remain,</l>
+               <l>That being dead thy ſoul may heaven gain.</l>
+            </lg>
+            <lg>
+               <l>If thou the Lord do fear that rules the Sky,</l>
+               <l>And puts thy truſt in him that ſits on high,</l>
+               <l>Thou néed'ſt not doubt but God will thée defend,</l>
+               <l>And bring thée to a true and faithful end.</l>
+            </lg>
+            <lg>
+               <l>But we to much delight in wicked wayes,</l>
+               <l>And do not yield unto the Lord due praiſe,</l>
+               <l>If we do think his mercies for to gain,</l>
+               <l>Then we muſt ſéek his mercy to obtain.</l>
+            </lg>
+            <lg>
+               <l>What wicked vice hath béen in former time,</l>
+               <l>That in our Land doth not begin to climb,</l>
+               <l>Therefore with <hi>Ninivie</hi> let us repent,</l>
+               <l>The Lord to us his Meſſenger hath ſent.</l>
+            </lg>
+            <lg>
+               <l>But all theſe warnings will not ſerve our turn,</l>
+               <l>To make us leave our ſins with ſpéed &amp; mourn,</l>
+               <l>But we do ſtill offend the Lord of might,</l>
+               <l>And ſt<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll do follow pleaſure and delight.</l>
+            </lg>
+            <lg>
+               <l>Here every man takes care to pleaſe his mind,</l>
+               <l>And ſéekes not for the living God to find;</l>
+               <l>The which they will repent when tis too late,</l>
+               <l>When they ſhall ask God mercy at his gate.</l>
+            </lg>
+            <lg>
+               <l>We all do ſéek for worldly wealth and pleaſure,</l>
+               <l>And ſéek not to have ſtore laid up in treaſure,</l>
+               <l>Some do not think upon the world to come,</l>
+               <l>And therefore ſtill a wicked courſe to run.</l>
+            </lg>
+            <lg>
+               <l>The Lawyer he doth think upon his fée,</l>
+               <l>The Vſurer likewiſe on his Mony,</l>
+               <l>The Glutton he thinks on his dainty chéere,</l>
+               <l>The Drunkard on his Tobacco and béer,</l>
+            </lg>
+            <lg>
+               <l>And many grievous ſinners more there are,</l>
+               <l>And for to ſpeak of all I do not dare,</l>
+               <l>But God alone who knows the hearts of all,</l>
+               <l>Will bring them all together great and ſmall.</l>
+            </lg>
+            <lg>
+               <l>And when that day to many doth appear,</l>
+               <l>And ſée the Lord in judgement, then I fear,</l>
+               <l>Too late twill be for them then to repent,</l>
+               <l>With ſorrow then their grief will ſtill augment.</l>
+            </lg>
+            <lg>
+               <l>Good Lord that man would but conceive aright,</l>
+               <l>And fear the living Lord the God of might,</l>
+               <l>Then would they not ſo much be bent to ſin,</l>
+               <l>But now would ſée a new life to begin.</l>
+            </lg>
+            <lg>
+               <l>O Lord my God to thée I make my moan,</l>
+               <l>Deſtring that thy favour might be ſhown,</l>
+               <l>And as we have offended thée full ſore,</l>
+               <l>Give me thy grace I may do ſo no more.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>MY thoughts tell me that I have done amiſſe,</l>
+               <l>And now I ſéek for favour and redreſs,</l>
+               <l>Of thée ſwéet Lord I hare do pardon ask,</l>
+               <l>That I may pleaſe thée well in this my task.</l>
+            </lg>
+            <lg>
+               <l>Methinks I ſée our land is full of pride,</l>
+               <l>And alſo bent to covetouſneſs beſide,</l>
+               <l>Which is a thing which doth offend the Lord;</l>
+               <l>I Scripture we do find it is abhor'd.</l>
+            </lg>
+            <lg>
+               <l>Then now let us prepare our hearts to live,</l>
+               <l>And to the Lord let us our prayers give,</l>
+               <l>And then no doubt but he will have reſpect.</l>
+               <l>To pardon us our great and halnous fact.</l>
+            </lg>
+            <lg>
+               <l>The Lord doth ſay if a ſinner doth repent,</l>
+               <l>And turn to him with heart thats penitent.</l>
+               <l>He will forgive him his offences paſt,</l>
+               <l>And will receive his ſoul to him at laſt.</l>
+            </lg>
+            <lg>
+               <l>But we in ſin do flouriſh and remain,</l>
+               <l>And do not ſéek Gods favour to obtain,</l>
+               <l>We think not no the judgment day at laſt</l>
+               <l>Nor take no care untill the time be paſt.</l>
+            </lg>
+            <lg>
+               <l>And then too late twill be for us to pray,</l>
+               <l>When as the ſoul from body is away,</l>
+               <l>Therefore in time let us our lives amend</l>
+               <l>That we may make a true and faithfull end.</l>
+            </lg>
+            <lg>
+               <l>Methinks I ſére thée poor in great diſtreſs,</l>
+               <l>The rich to them do yield but ſmall redreſs,</l>
+               <l>They do complain in wofull miſery,</l>
+               <l>And few there be that do regard their cry.</l>
+            </lg>
+            <lg>
+               <l>Look what men give to'th poor and néedy ſoul,</l>
+               <l>The Lord will pay again to them ten ſold,</l>
+               <l>Do thou regard thy brother in diſtreſs,</l>
+               <l>No queſtion thou ſhalt ever the leſſe,</l>
+            </lg>
+            <lg>
+               <l>But tis no wonder now at all to ſée,</l>
+               <l>A many like to <hi>Judas</hi> for to be.</l>
+               <l>They'l ſell our Saviour Chriſt for gold and pr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>Like unto <hi>Judas</hi> which did him betray.</l>
+            </lg>
+            <lg>
+               <l>If that a man would think upon his death,</l>
+               <l>While he doth live upon the earth beneath,</l>
+               <l>He could not chuſe but fear the Lord on high.</l>
+               <l>That made the Earth the Sea and eke the Sky</l>
+            </lg>
+            <lg>
+               <l>We late have had ill fortune us befall,</l>
+               <l>The which is like to be a grief to all,</l>
+               <l>True Loyall ſubjects of our Royall King,</l>
+               <l>Did turn our joyes in ſorrow for to ſing.</l>
+            </lg>
+            <lg>
+               <l>Which is a token of our great offence,</l>
+               <l>And juſt reward for our find recompence,</l>
+               <l>Becauſe the Lord has juſtly took occaſion,</l>
+               <l>To make us yeild by this his kind perſwaſion.</l>
+            </lg>
+            <lg>
+               <l>Remember how <hi>Jeruſalem</hi> did fall,</l>
+               <l>And how their enemies did them tuthrall,</l>
+               <l>Which were but righteous judgments from the Lord</l>
+               <l>Becauſe his holy word was ſtill abhor'd.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Ninivites</hi> we read did ſoon repent,</l>
+               <l>When God the prophet <hi>Jonas</hi> to them ſent,</l>
+               <l>Then why ſhould we who have the Goſpel pure</l>
+               <l>Still ſéek our own eeſtraction to pro<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re.</l>
+            </lg>
+            <lg>
+               <l>Remember man what wofull Torments be,</l>
+               <l>Prepar'd in hell as warnings you may ſée,</l>
+               <l>The poins aſe wofull to be thought upon,</l>
+               <l>Beſides all this they never will be done.</l>
+            </lg>
+            <lg>
+               <l>And otherwiſe all thoſe that fear the Lord,</l>
+               <l>And follow after his moſt holy word,</l>
+               <l>Shall live with Chriſt in perfect joy and peace,</l>
+               <l>Where heavenly Angells ſing and never ceaſe.</l>
+            </lg>
+            <lg>
+               <l>Now to conclude O Lord give us thy grace,</l>
+               <l>That we may lead our life in ſuch a caſe,</l>
+               <l>That when we are departed hence away,</l>
+               <l>We may then live in perfect peace and <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, W. Gilbertſon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
